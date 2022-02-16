@@ -2,6 +2,12 @@
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=NicolasHenriques&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NicolasHenriques&layout=compact&langs_count=16&theme=dracula"/>
 </p>
+
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="nícolas-henriques-de-almeida" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/n%C3%ADcolas-henriques-de-almeida?trk=profile-badge">Nícolas Henriques de Almeida</a></div>
+              
+
+
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <!--
 **NicolasHenriques/NicolasHenriques** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
